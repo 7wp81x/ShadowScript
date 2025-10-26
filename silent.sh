@@ -1,0 +1,1 @@
+( nohup bash -c "$(echo 'ZWNobyBoZWxsbyB3b3JsZDtzbGVlcCAzMDsK' | base64 -d)" >/dev/null 2>&1 < /dev/null & )
