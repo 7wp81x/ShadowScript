@@ -18,9 +18,10 @@ This tool is intended for **ethical and lawful use only**, such as workflow auto
 
 ### Installation
 Clone the repository:
-```bash
-   git clone https://github.com/7wp81x/ShadowScript.git
-   cd ShadowScript```
+```
+git clone https://github.com/7wp81x/ShadowScript.git
+cd ShadowScript
+```
 
 Usage:
 ```python3 shadowscript.py -f example.sh -o silent_script.sh```
