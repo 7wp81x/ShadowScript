@@ -22,6 +22,12 @@ Clone the repository:
 git clone https://github.com/7wp81x/ShadowScript.git
 cd ShadowScript
 ```
+or Only Download the shadowscript.py:
+```
+wget https://github.com/7wp81x/ShadowScript/blob/main/shadowscript.pyraw=true -O shadowscript.py
+```
 
 Usage:
-```python3 shadowscript.py -f example.sh -o silent_script.sh```
+```
+python3 shadowscript.py -f example.sh -o silent_script.sh
+```
