@@ -1,7 +1,7 @@
 # ShadowScript
 
 **ShadowScript** is a Python-based utility that transforms standard shell scripts into silent, background processes that execute without interruptions or visible output. By encoding the input shell script into a Base64-encoded payload, ShadowScript generates a new shell script that runs discreetly using `nohup`, redirecting all output to `/dev/null`. This makes it ideal for workflow automation, background task execution, or educational purposes where minimal user interaction is desired.
---
+
 
 ![ShadowScript Demo](demo.gif)
 
